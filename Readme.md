@@ -9,3 +9,6 @@ https://hub.docker.com/editions/community/docker-ce-desktop-windows
 ## RP
 * Upload multiple files and convert using Tika()
 * Display the data in it using ChartJS
+## Stripe - Payment Gateway -using Test API
+* Created a Customer
+* Created Card Tokens in the payment page and Charged it based on the price given.
