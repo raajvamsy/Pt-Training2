@@ -11,4 +11,4 @@ https://hub.docker.com/editions/community/docker-ce-desktop-windows
 * Display the data in it using ChartJS
 ## Stripe - Payment Gateway -using Test API
 * Created a Customer
-* Created Card Tokens in the payment page and Charged it based on the price given.
+* Created Card Tokens in the payment page, Charged it based on the price given and generated an Invoice for the product.
